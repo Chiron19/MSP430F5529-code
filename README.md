@@ -8,6 +8,14 @@ Study backup for Course 2021-Summer Electronic Technology Internship @HITsz
 
 ## Experiment 1
 
+The demo presentation here: <https://youtu.be/lhYXCkVYXPs>
+
 ## Experiment 2
 
+The demo presentation here: <https://youtu.be/6QDkLGvBDdg>
+
 ## Final
+
+This final work combines ultrasound sensors, infrared detector to add simple gestures detection. 
+The encapsulation of this model uses laser-cut acrylic boards to assemble a functional box, self-designed.
+The report can be found in the corresopnding folder.
